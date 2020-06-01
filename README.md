@@ -16,7 +16,7 @@ __Git Merge__
 - https://git-merge.com/2018/#schedule  
 
 __GitHub Satellite__
-- https://githubsatellite.com/program/
+- https://githubsatellite.com/schedule/
 
 __Other random talkes ideas__  
 - Git hooks and alias - background, use cases and how to set them  
