@@ -18,9 +18,22 @@ __Git Merge__
 __GitHub Satellite__
 - https://githubsatellite.com/schedule/
 
+__Topics we want to cover__  
+- Github registry 
+- Github actions
+- Github security stack
+- Github CLI
+- Git alias
+- Undo git mistakes
+- Workshop for beginners
+
 __Other random talkes ideas__  
 - Git hooks and alias - background, use cases and how to set them  
 - Git flows - reviewing different git flows implementations  
 - Any GitHub feature review  
 - Any Git commands - drill-down on command and its flags  
 - GitHub best practices - branch protection, codeowners and so...  
+- Contributing to open source
+- Git branching strategy
+- Managing open source projects
+- Organize tasks with Github Projects
