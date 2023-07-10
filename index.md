@@ -41,7 +41,12 @@ For more details check out our [Meetup page](https://www.meetup.com/github-user-
 * [Couchbase](https://www.couchbase.com/) - NoSQL Cloud Database Service
 * [Grove Ventures](https://www.grovevc.com/)
 
+## 2023.03.06 - [Community Event With GitHub CEO (Thomas Dohmke)](https://www.meetup.com/github-user-group/events/291977277/)
 
+* Fireside Chat with [Thomas Dohmke](https://www.linkedin.com/in/ashtom/), CEO at [GitHub](https://github.com/), hosted by GitHub Stars Eyar Zilberman & [Liran Tal](https://www.linkedin.com/in/lirantal/)
+* ChatGPT vs Co-Pilot and a live demo, [Marina Marenkov](https://www.linkedin.com/in/marina-marenkov/)
+* Beyond the Keyboard Panel: The Future of Developers in a Rapidly Changing World, [Uri Eliabayev](https://www.linkedin.com/in/urieliabayev/)
+* GPT Model Fine Tuning, [Alon Danoch](https://www.linkedin.com/in/alon-danoch-7916b929/)
 
 ## 2019.09.24 - [Automated Git workflow & How Rookout enforces good dev practices](https://www.meetup.com/github-user-group/events/264489604/)
 
