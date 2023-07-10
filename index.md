@@ -31,6 +31,17 @@ For more details check out our [Meetup page](https://www.meetup.com/github-user-
 * [Couchbase](https://www.couchbase.com/) - NoSQL Cloud Database Service
 * [Outshift by Cisco](https://eti.cisco.com/)
 
+## 2023.04.16 - [One Code Contribution Changed My Career & OS Project as a Personal Growth Engine](https://www.meetup.com/github-user-group/events/292335524/)
+
+* How One Code Contribution Changed My Career by [Ran Isenberg](https://www.linkedin.com/in/ranisenberg/) (Principal Software Architect @ [CyberArk](https://www.cyberark.com/))
+* Open-Source Project as a Personal Growth Engine by [Lior Yardeni](https://www.linkedin.com/in/lioryardeni/) (Backend Developer @ [LSEG](https://www.lseg.com/)) & [Pavel Zagalsky](https://www.linkedin.com/in/pavelzagalsky/) (Backend Engineer @ Intel)
+
+### Sponsors:
+
+* [Couchbase](https://www.couchbase.com/) - NoSQL Cloud Database Service
+* [Grove Ventures](https://www.grovevc.com/)
+
+
 
 ## 2019.09.24 - [Automated Git workflow & How Rookout enforces good dev practices](https://www.meetup.com/github-user-group/events/264489604/)
 
