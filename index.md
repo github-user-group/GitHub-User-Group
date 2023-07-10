@@ -43,10 +43,20 @@ For more details check out our [Meetup page](https://www.meetup.com/github-user-
 
 ## 2023.03.06 - [Community Event With GitHub CEO (Thomas Dohmke)](https://www.meetup.com/github-user-group/events/291977277/)
 
-* Fireside Chat with [Thomas Dohmke](https://www.linkedin.com/in/ashtom/), CEO at [GitHub](https://github.com/), hosted by GitHub Stars Eyar Zilberman & [Liran Tal](https://www.linkedin.com/in/lirantal/)
+* Fireside Chat with [Thomas Dohmke](https://www.linkedin.com/in/ashtom/), CEO at [GitHub](https://github.com/), hosted by GitHub Stars [Eyar Zilberman](https://www.linkedin.com/in/eyar-zilberman/) & [Liran Tal](https://www.linkedin.com/in/lirantal/)
 * ChatGPT vs Co-Pilot and a live demo, [Marina Marenkov](https://www.linkedin.com/in/marina-marenkov/)
 * Beyond the Keyboard Panel: The Future of Developers in a Rapidly Changing World, [Uri Eliabayev](https://www.linkedin.com/in/urieliabayev/)
 * GPT Model Fine Tuning, [Alon Danoch](https://www.linkedin.com/in/alon-danoch-7916b929/)
+
+## 2023.02.08 - [Efficient Code Reviews with CodeQL & Unpacking GitHub Copilot: Advanced Tricks](https://www.meetup.com/github-user-group/events/290995301/)
+
+* Efficient Code Reviews with CodeQL by [Uriel Yair](https://www.linkedin.com/in/uriel-yair/) (Application Security Tech Lead @ [Comsec Global](https://comsecglobal.com/))
+* Unpacking GitHub Copilot: Advanced Tricks by [Eyar Zilberman](https://www.linkedin.com/in/eyar-zilberman/) (CPO @ [Datree](https://www.datree.io/))
+
+### Sponsors:
+
+* [Rapid](https://rapidapi.com/)
+
 
 ## 2019.09.24 - [Automated Git workflow & How Rookout enforces good dev practices](https://www.meetup.com/github-user-group/events/264489604/)
 
