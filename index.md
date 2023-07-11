@@ -1,5 +1,3 @@
-# GitHub User Group in Israel
-
 <img src="./Israeli-Octocat.png" width="40%">
 
 A safe place for people to meet and geek out about Git and GitHub.
