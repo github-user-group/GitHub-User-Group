@@ -16,6 +16,10 @@ For more details check out our [Meetup page](https://www.meetup.com/github-user-
 
 * [Ronen Levinson](https://www.linkedin.com/in/ronen-levinson/)
 
+## Helper
+
+* [Gabor Szabo](https://www.linkedin.com/in/szabgab/)
+
 # Upcoming events
 
 ## [next](https://www.meetup.com/github-user-group/)
