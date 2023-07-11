@@ -1,9 +1,7 @@
 <img src="./Israeli-Octocat.png" width="40%">
 
-A safe place for people to meet and geek out about Git and GitHub.
+A safe place for people to meet and geek out about Git and GitHub.  
 Check our [Meetup page](https://www.meetup.com/github-user-group/) for more details.
-
-[Ideas for talks](ideas)
 
 ## Organizers
 
@@ -22,9 +20,10 @@ Check our [Meetup page](https://www.meetup.com/github-user-group/) for more deta
 
 # Upcoming events
 
-## Not scheduled yet 🤓
+## Not scheduled yet 🤓  
 
 -----------------------------
+
 # Past events
 
 ## [25.06.2023] [Tracing the Open Source Revolution & Tracing the Git Revolution](https://www.meetup.com/github-user-group/events/293909064/)
