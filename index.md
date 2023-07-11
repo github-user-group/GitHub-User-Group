@@ -59,4 +59,13 @@ For more details check out our [Meetup page](https://www.meetup.com/github-user-
 
 * [Rapid](https://rapidapi.com/)
 
+## 2023.01.09 - [Drunken Idea Leads to Wild ML Adventure & ML-Ops: The Quest for Full-Blown SCM](https://www.meetup.com/github-user-group/events/290288230/)
+
+* Drunken Idea Leads to Wild ML Adventure By [Liza Katz](https://www.linkedin.com/in/lizak/) (Software Engineer)
+* ML-Ops: The Quest for Full-Blown Source Control By [Itai Admi](https://www.linkedin.com/in/itai-admi/) (Team Leader @ [Treeverse](https://lakefs.io/))
+
+## Older events:
+
+* [2022](/2022)
+* [2019](/2019)
 
