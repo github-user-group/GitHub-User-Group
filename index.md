@@ -1,5 +1,7 @@
 # GitHub User Group in Israel
 
+![](Israeli-Octocat.png)
+
 Monthly meetings about GitHub in Tel Aviv-Yafo, Israel.
 For more details check out our [Meetup page](https://www.meetup.com/github-user-group/).
 
@@ -70,7 +72,7 @@ For more details check out our [Meetup page](https://www.meetup.com/github-user-
 
 ## Older events:
 
-* [2022](/2022)
-* [2019](/2019)
+* [2022](2022)
+* [2021](2021)
+* [2019](2019)
 
-![](Israeli-Octocat.png)
