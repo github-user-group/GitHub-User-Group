@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: "GitHub User Group"
 show_downloads: false
+description: In Tel Aviv
 github:
   is_project_page: false
