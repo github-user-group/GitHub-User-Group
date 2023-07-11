@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: "GitHub User Group"
 show_downloads: false
+github:
+  is_project_page: false
