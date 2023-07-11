@@ -1,9 +1,9 @@
 # GitHub User Group in Israel
 
-![](Israeli-Octocat.png)
+<img src="./Israeli-Octocat.png" width="40%">
 
-Monthly meetings about GitHub in Tel Aviv-Yafo, Israel.  
-For more details check out our [Meetup page](https://www.meetup.com/github-user-group/).
+A safe place for people to meet and geek out about Git and GitHub.
+Check our [Meetup page](https://www.meetup.com/github-user-group/) for more details.
 
 [Ideas for talks](ideas)
 
@@ -24,7 +24,7 @@ For more details check out our [Meetup page](https://www.meetup.com/github-user-
 
 # Upcoming events
 
-## [next](https://www.meetup.com/github-user-group/)
+## Not scheduled yet 🤓
 
 -----------------------------
 # Past events
