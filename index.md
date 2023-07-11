@@ -73,3 +73,4 @@ For more details check out our [Meetup page](https://www.meetup.com/github-user-
 * [2022](/2022)
 * [2019](/2019)
 
+![](Israeli-Octocat.png)
