@@ -58,9 +58,3 @@ For more details check out our [Meetup page](https://www.meetup.com/github-user-
 * [Rapid](https://rapidapi.com/)
 
 
-## 2019.09.24 - [Automated Git workflow & How Rookout enforces good dev practices](https://www.meetup.com/github-user-group/events/264489604/)
-
-* Automated git workflow: Github Probot VS Github Actions by [Ronen Levinson](https://www.linkedin.com/in/ronen-levinson/), DevOps Engineer @ [CodeValue](https://codevalue.com/) - [slides](Meetup #3/Automated git workflow: Github Probot VS Github Actions.pdf)
-* GitEnforcer - how Rookout enforces good dev practices on GitHub by [Mickael Alliel](https://www.linkedin.com/in/mickaelalliel/), DevOps/Full Stack Developer @ [Rookout](https://www.rookout.com/) - [slides](Meetup #3/GitEnforcer - how Rookout enforces good dev practices on GitHub.pdf)
-
-
