@@ -3,6 +3,8 @@
 Monthly meetings about GitHub in Tel Aviv-Yafo, Israel.
 For more details check out our [Meetup page](https://www.meetup.com/github-user-group/).
 
+[Ideas for talks](ideas)
+
 ## Organizers
 
 * [Eyar Zilberman](https://www.linkedin.com/in/eyar-zilberman/)
