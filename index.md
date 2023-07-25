@@ -22,7 +22,14 @@ Check our [Meetup page](https://www.meetup.com/github-user-group/) for more deta
 
 # Upcoming events
 
-## Not scheduled yet 🤓  
+## [08.08.2023] [DevOps 2.0: Continuous Merge & Git Decentralized](https://www.meetup.com/github-user-group/events/294982746/)
+
+* DevOps 2.0: Continuous Merge by [Yishai Beeri](https://www.linkedin.com/in/yishaibeeri/) (CTO @ [LinearB](https://linearb.io/))
+* Git Decentralized by [Costa Shapiro](https://www.linkedin.com/in/costashapiro/) (Costa @ Costa works consultancy)
+
+<!--
+## Not scheduled yet 🤓
+-->
 
 -----------------------------
 
