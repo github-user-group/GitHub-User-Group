@@ -22,18 +22,22 @@ Check our [Meetup page](https://www.meetup.com/github-user-group/) for more deta
 
 # Upcoming events
 
+## Not scheduled yet 🤓
+
+-----------------------------
+
+# Past events
+
+## [19.09.2023] [Cracking the Code With Automated Testing && The Art of Effective Documentation](https://www.meetup.com/github-user-group/events/295630336/)
+
+* Cracking the Code: A Deep Dive into Automated Testing Strategies by [Benny Daon](https://www.linkedin.com/in/daonb/) (Founder @ [Terminal7](https://terminal7.dev/))
+* Docu-mentality: The Art of Crafting Effective External Documentation by [Hadar Cohen](https://www.linkedin.com/in/hadar-cohen-92b855137/) (Developer Advocate @ [Port](https://www.getport.io/))
+
 ## [08.08.2023] [DevOps 2.0: Continuous Merge & Git Decentralized](https://www.meetup.com/github-user-group/events/294982746/)
 
 * DevOps 2.0: Continuous Merge by [Yishai Beeri](https://www.linkedin.com/in/yishaibeeri/) (CTO @ [LinearB](https://linearb.io/))
 * Git Decentralized by [Costa Shapiro](https://www.linkedin.com/in/costashapiro/) (Costa @ Costa works consultancy)
 
-<!--
-## Not scheduled yet 🤓
--->
-
------------------------------
-
-# Past events
 
 ## [25.06.2023] [Tracing the Open Source Revolution & Tracing the Git Revolution](https://www.meetup.com/github-user-group/events/293909064/)
 
