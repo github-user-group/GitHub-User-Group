@@ -50,6 +50,7 @@ If you don't have a topic yet we have plenty of [ideas](/ideas) for presentation
 ## [16.04.2023] [#19 One Code Contribution Changed My Career & OS Project as a Personal Growth Engine](https://www.meetup.com/github-user-group/events/292335524/)
 
 * How One Code Contribution Changed My Career by [Ran Isenberg](https://www.linkedin.com/in/ranisenberg/) (Principal Software Architect @ CyberArk)
+    * [Video Recording](https://www.youtube.com/watch?v=8m6qB7cuMWo) of a later version of this presentation.
 * Open-Source Project as a Personal Growth Engine by [Lior Yardeni](https://www.linkedin.com/in/lioryardeni/) (Backend Developer @ LSEG) & [Pavel Zagalsky](https://www.linkedin.com/in/pavelzagalsky/) (Backend Engineer @ Intel)
 
 ## [06.03.2023] [#18 Community Event With GitHub CEO (Thomas Dohmke)](https://www.meetup.com/github-user-group/events/291977277/)
