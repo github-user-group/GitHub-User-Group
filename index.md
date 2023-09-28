@@ -40,6 +40,7 @@ If you don't have a topic yet we have plenty of [ideas](/ideas) for presentation
 ## [08.08.2023] [#21 DevOps 2.0: Continuous Merge & Git Decentralized](https://www.meetup.com/github-user-group/events/294982746/)
 
 * DevOps 2.0: Continuous Merge by [Yishai Beeri](https://www.linkedin.com/in/yishaibeeri/) (CTO @ [LinearB](https://linearb.io/))
+    * [slides](slides/devops-2.0-continuous-merge.pdf)
 * Git Decentralized by [Costa Shapiro](https://www.linkedin.com/in/costashapiro/) (Costa @ Costa works consultancy)
 
 
