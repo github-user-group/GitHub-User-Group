@@ -35,6 +35,7 @@ If you don't have a topic yet we have plenty of [ideas](/ideas) for presentation
 
 * Cracking the Code: A Deep Dive into Automated Testing Strategies by [Benny Daon](https://www.linkedin.com/in/daonb/) (Founder @ [Terminal7](https://terminal7.dev/))
 * Docu-mentality: The Art of Crafting Effective External Documentation by [Hadar Cohen](https://www.linkedin.com/in/hadar-cohen-92b855137/) (Developer Advocate @ [Port](https://www.getport.io/))
+    * [slides](slides/documentality.pdf)
 
 ## [08.08.2023] [#21 DevOps 2.0: Continuous Merge & Git Decentralized](https://www.meetup.com/github-user-group/events/294982746/)
 
