@@ -2,16 +2,16 @@
 Good resources to find ideas for your talk are other talks - here is a list of past conferences about Git / GitHub
 
 __GitHub Universe__
-- https://githubuniverse.com/schedule/
-- https://githubuniverse.com/2018/program/
-- https://githubuniverse.com/2017/program/
+- [schedule](https://githubuniverse.com/schedule/)
+- [2018](https://githubuniverse.com/2018/program/)
+- [2017](https://githubuniverse.com/2017/program/)
 
 __Git Merge__
-- https://git-merge.com/2019/#schedule
-- https://git-merge.com/2018/#schedule
+- [2019](https://git-merge.com/2019/#schedule)
+- [2018](https://git-merge.com/2018/#schedule)
 
 __GitHub Satellite__
-- https://githubsatellite.com/schedule/
+- [schedule](https://githubsatellite.com/schedule/)
 
 __Topics we want to cover__
 - Github registry
