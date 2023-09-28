@@ -24,6 +24,8 @@ Check our [Meetup page](https://www.meetup.com/github-user-group/) for more deta
 
 ## Not scheduled yet 🤓
 
+If you'd like to propose a presentation open an [issue](https://github.com/github-user-group/GitHub-User-Group) with the details.
+
 -----------------------------
 
 # Past events
