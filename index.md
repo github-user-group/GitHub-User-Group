@@ -41,6 +41,7 @@ If you don't have a topic yet we have plenty of [ideas](/ideas) for presentation
 
 * DevOps 2.0: Continuous Merge by [Yishai Beeri](https://www.linkedin.com/in/yishaibeeri/) (CTO @ [LinearB](https://linearb.io/))
     * [slides](slides/devops-2.0-continuous-merge.pdf)
+    * [video recording](https://www.youtube.com/watch?v=VnUGMzVrjlg) of a more recent version of the presentation.
 * Git Decentralized by [Costa Shapiro](https://www.linkedin.com/in/costashapiro/) (Costa @ Costa works consultancy)
 
 
