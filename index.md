@@ -59,7 +59,7 @@ If you don't have a topic yet we have plenty of [ideas](/ideas) for presentation
 
 ## [06.03.2023] [#18 Community Event With GitHub CEO (Thomas Dohmke)](https://www.meetup.com/github-user-group/events/291977277/)
 
-* Fireside Chat with [Thomas Dohmke](https://www.linkedin.com/in/ashtom/), CEO at GitHub, hosted by GitHub Stars [Eyar Zilberman](https://www.linkedin.com/in/eyar-zilberman/) & [Liran Tal](https://www.linkedin.com/in/lirantal/)
+* Fireside Chat with [Thomas Dohmke](https://www.linkedin.com/in/ashtom/), CEO at GitHub, hosted by GitHub Stars [Eyar Zilberman](https://www.linkedin.com/in/eyar-zilberman/) & [Liran Tal](https://www.linkedin.com/in/talliran/)
 * ChatGPT vs Co-Pilot and a live demo, [Marina Marenkov](https://www.linkedin.com/in/marina-marenkov/)
 * Beyond the Keyboard Panel: The Future of Developers in a Rapidly Changing World, [Uri Eliabayev](https://www.linkedin.com/in/urieliabayev/)
 * GPT Model Fine Tuning, [Alon Danoch](https://www.linkedin.com/in/alon-danoch-7916b929/)
