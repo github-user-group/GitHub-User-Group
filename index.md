@@ -10,7 +10,6 @@ Check our [Meetup page](https://www.meetup.com/github-user-group/) for more deta
 * [Noaa Barki](https://www.linkedin.com/in/noaa-barki-159498163/)
 * [Dana Fine](https://www.linkedin.com/in/fine-dana/)
 
-
 ## Helper
 
 * [Gabor Szabo](https://www.linkedin.com/in/szabgab/)
@@ -19,6 +18,8 @@ Check our [Meetup page](https://www.meetup.com/github-user-group/) for more deta
 
 * [Couchbase](https://www.couchbase.com/)
 * [Outshift by Cisco](https://eti.cisco.com/)
+
+![](img/banner.webp)
 
 # Upcoming events
 
@@ -34,7 +35,7 @@ If you don't have a topic yet we have plenty of [ideas](/ideas) for presentation
 
 ## [23.12.2024] [Building a Modern DevSecOps Workflow && Monitoring in Your CI/CD Pipeline](https://www.meetup.com/github-user-group/events/304740192/)
 
-![](20241223.avif)
+![](/img/20241223.avif)
 
 18:00 - 18:30 - Gathering & Mingling 🍻
 
@@ -72,11 +73,15 @@ Ben previously spent a decade in adult education, community organizing, and non-
 
 ## [19.09.2023] [#22 Cracking the Code With Automated Testing && The Art of Effective Documentation](https://www.meetup.com/github-user-group/events/295630336/)
 
+![](img/20230919.avif)
+
 * Cracking the Code: A Deep Dive into Automated Testing Strategies by [Benny Daon](https://www.linkedin.com/in/daonb/) (Founder @ [Terminal7](https://terminal7.dev/))
 * Docu-mentality: The Art of Crafting Effective External Documentation by [Hadar Cohen](https://www.linkedin.com/in/hadar-cohen-92b855137/) (Developer Advocate @ [Port](https://www.getport.io/))
     * [slides](slides/documentality.pdf)
 
 ## [08.08.2023] [#21 DevOps 2.0: Continuous Merge & Git Decentralized](https://www.meetup.com/github-user-group/events/294982746/)
+
+![](img/20230808.avif)
 
 * DevOps 2.0: Continuous Merge by [Yishai Beeri](https://www.linkedin.com/in/yishaibeeri/) (CTO @ [LinearB](https://linearb.io/))
     * [slides](slides/devops-2.0-continuous-merge.pdf)
