@@ -22,6 +22,16 @@ Check our [Meetup page](https://www.meetup.com/github-user-group/) for more deta
 
 # Upcoming events
 
+## Not scheduled yet 🤓
+
+If you'd like to propose a presentation open an [issue](https://github.com/github-user-group/GitHub-User-Group) with the details.
+If you don't have a topic yet we have plenty of [ideas](/ideas) for presentations.
+
+-----------------------------
+
+# Past events
+
+
 ## [23.12.2024] [Building a Modern DevSecOps Workflow && Monitoring in Your CI/CD Pipeline](https://www.meetup.com/github-user-group/events/304740192/)
 
 ![](20241223.avif)
@@ -59,20 +69,6 @@ This talk will guide you through the essentials of integrating comprehensive dat
 -----------------------------------------------------------------------------------------
 
 Ben previously spent a decade in adult education, community organizing, and non-profit management before transitioning to software development. He works as a Senior Developer Advocate at Couchbase and is a member of the board of Ruby Central. Ben is actively involved in open source and writes regularly on the intersection of tech, ethics, and community. He is the author of the forthcoming book Mastering Vector Search for Developers, to be published by Pragmatic Programmers. He can be found online at hummusonrails.com
-
-
-
-
-
-
-## Not scheduled yet 🤓
-
-If you'd like to propose a presentation open an [issue](https://github.com/github-user-group/GitHub-User-Group) with the details.
-If you don't have a topic yet we have plenty of [ideas](/ideas) for presentations.
-
------------------------------
-
-# Past events
 
 ## [19.09.2023] [#22 Cracking the Code With Automated Testing && The Art of Effective Documentation](https://www.meetup.com/github-user-group/events/295630336/)
 
