@@ -49,7 +49,7 @@ If you don't have a topic yet we have plenty of [ideas](/ideas) for presentation
 
 18:30 - 18:45 - Introduction & Community updates
 
-18:45 - 19:15 - From Traditional AppSec Tools to AI-Powered Reviews: Building a Modern DevSecOps Workflow by Ariel Beck & Meshi Yona
+18:45 - 19:15 - From Traditional AppSec Tools to AI-Powered Reviews: Building a Modern DevSecOps Workflow by [Ariel Beck](https://www.linkedin.com/in/ariel-beck-84b44b28/) & [Meshi Yona](https://www.linkedin.com/in/meshi-yona-735826112/)
 
 Traditional AppSec toolchains often feel like a patchwork of tools—each with its own setup, maintenance, and integration challenges. They can slow down development, overwhelm teams with alerts, and still leave gaps in security coverage.
 
@@ -63,7 +63,7 @@ Meshi is a Software Engineer Team Lead at Jit with extensive experience in cyber
 Ariel is a Software Architect at Jit.io. He holds a B.Sc. in Computer Science from the Academic College of Tel Aviv-Yaffo, and has over 10 years of experience as a software architect in various fields and technologies, with a focus on cloud-based solutions.
 
 -----------------------------------------------------------------------------------------
-19:15 - 19:45 - Automating Database Testing and Monitoring in Your CI/CD Pipeline by Ben Greenberg
+19:15 - 19:45 - Automating Database Testing and Monitoring in Your CI/CD Pipeline by [Ben Greenberg](https://www.linkedin.com/in/hummusonrails/)
 
 This talk will guide you through the essentials of integrating comprehensive database testing and monitoring into your CI/CD pipelines. We'll explore the types of tests you should run, from unit to performance tests, and demonstrate how to automate these processes using GitHub Actions. Testing databases involves unique challenges such as ensuring data consistency, handling stateful interactions, and dealing with various concurrency issues. We'll also touch upon and briefly show how to share your GitHub Actions workflow data with monitoring tools like Prometheus, and what aspects of your workflow data you should share to maintain a healthy and performant database. Join us to learn how to elevate your CI/CD workflows and achieve more holistic database management.
 
