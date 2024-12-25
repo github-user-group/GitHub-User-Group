@@ -65,6 +65,8 @@ Ariel is a Software Architect at Jit.io. He holds a B.Sc. in Computer Science fr
 -----------------------------------------------------------------------------------------
 19:15 - 19:45 - Automating Database Testing and Monitoring in Your CI/CD Pipeline by [Ben Greenberg](https://www.linkedin.com/in/hummusonrails/)
 
+[slides](https://noti.st/benhayehudi/vqu6Et/automating-database-testing-in-your-ci-cd-pipelines)
+
 This talk will guide you through the essentials of integrating comprehensive database testing and monitoring into your CI/CD pipelines. We'll explore the types of tests you should run, from unit to performance tests, and demonstrate how to automate these processes using GitHub Actions. Testing databases involves unique challenges such as ensuring data consistency, handling stateful interactions, and dealing with various concurrency issues. We'll also touch upon and briefly show how to share your GitHub Actions workflow data with monitoring tools like Prometheus, and what aspects of your workflow data you should share to maintain a healthy and performant database. Join us to learn how to elevate your CI/CD workflows and achieve more holistic database management.
 
 -----------------------------------------------------------------------------------------
