@@ -35,6 +35,8 @@ If you don't have a topic yet we have plenty of [ideas](/ideas) for presentation
 
 ## [23.12.2024] [Building a Modern DevSecOps Workflow && Monitoring in Your CI/CD Pipeline](https://www.meetup.com/github-user-group/events/304740192/)
 
+Hosted by [Jit](https://www.jit.io/)
+
 ![](/img/20241223.avif)
 
 18:00 - 18:30 - Gathering & Mingling 🍻
