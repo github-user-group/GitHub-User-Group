@@ -32,51 +32,50 @@ If you don't have a topic yet we have plenty of [ideas](/ideas) for presentation
 
 # Past events
 
+## [23.12.2024] [The Future of Software Development](https://www.meetup.com/github-user-group/events/305771335/)
 
-## [23.12.2024] [Building a Modern DevSecOps Workflow && Monitoring in Your CI/CD Pipeline](https://www.meetup.com/github-user-group/events/304740192/)
+Hosted by [Microsoft Reactor Space Tel Aviv](https://developer.microsoft.com/en-us/reactor/)
 
-Hosted by [Jit](https://www.jit.io/)
-
-![](/img/20241223.avif)
+![](/img/600_525916399.avif)
 
 18:00 - 18:30 - Gathering & Mingling 🍻
 
 18:30 - 18:45 - Opening Notes
 
-18:45 - 19:15 - From Traditional AppSec Tools to AI-Powered Reviews: Building a Modern DevSecOps Workflow
+18:45 - 19:15 - GitHub Next & the future of software development with [Idan Gazit](https://www.linkedin.com/in/idangazit/)
 
-19:15 - 19:45 - Automating Database Testing and Monitoring in Your CI/CD Pipeline
+19:15 - 19:45 - Q&A with Idan
 
 --------------------------------Full-Agenda-Below---------------------------------
 
 18:30 - 18:45 - Introduction & Community updates
 
-18:45 - 19:15 - From Traditional AppSec Tools to AI-Powered Reviews: Building a Modern DevSecOps Workflow by [Ariel Beck](https://www.linkedin.com/in/ariel-beck-84b44b28/) & [Meshi Yona](https://www.linkedin.com/in/meshi-yona-735826112/)
+18:45 - 19:15 - GitHub Next & the future of software development by Idan Gazit
 
-Traditional AppSec toolchains often feel like a patchwork of tools—each with its own setup, maintenance, and integration challenges. They can slow down development, overwhelm teams with alerts, and still leave gaps in security coverage.
+AI has already caused a revolution in software development with Copilot, but we’re only at the start of this cycle. What does that mean? Where do we believe that it’s going? And how does a team like GitHub Next think about exploring that future?
 
-In this talk, we’ll explore how to set up a comprehensive DevSecOps chain using GitHub Actions integrated with best-in-class open-source tools for SAST, secrets detection, SCA, and DAST. Then, we’ll show how you can rethink this workflow using an AI agent powered by AWS Bedrock and Claude to review code, streamline processes, and deliver actionable insights.
+Idan Gazit leads GitHub Next, the birthplace of GitHub Copilot, and many more prototypes that explore how AI will make software development faster, easier, safer, and more accessible for developers everywhere.
+As a hybrid designer and developer, his interests span a variety of fields. Idan is keenly interested in data display issues, typography, and color. You're likely to hear him talk about the pit of success, and the importance of good nouns.
+Idan was previously a principal engineer at Heroku, and is an alumnus of the Django web framework's core development team.
+He is a firm believer in the power of web technologies, and is most at home in them, though many evenings you can find him soldering a new keyboard or muttering foul language while trying to get Rust to run on a microcontroller.
 
-Through a live demo, you’ll see both approaches in action and learn how to overcome common pitfalls in building secure pipelines. By the end, you’ll gain practical knowledge to enhance your security practices, reduce friction in your workflows, and adopt modern tools with confidence. Whether you're a developer, security professional, or DevOps enthusiast, this talk will help you take your DevSecOps to the next level.
 
------------------------------------------------------------------------------------------
-Meshi is a Software Engineer Team Lead at Jit with extensive experience in cyber security and delivering high-quality, scalable solutions. With a strong technical background and a passion for fostering collaboration, Meshi thrives on tackling complex challenges and driving innovation in fast-paced environments.
+19:15 - 19:45 - Q&A with Idan
 
-Ariel is a Software Architect at Jit.io. He holds a B.Sc. in Computer Science from the Academic College of Tel Aviv-Yaffo, and has over 10 years of experience as a software architect in various fields and technologies, with a focus on cloud-based solutions.
+Join us for a Q&A session with Idan, where you will have the chance to engage directly with a pioneering technologist shaping the future of software development.
+This interactive segment provides a unique platform for developers, technologists, and industry professionals to delve deeper into the transformative potential of AI in software engineering and explore the state of software development tools.
+This Q&A is designed to be an engaging, thought-provoking dialogue that goes beyond surface-level discussions, offering attendees a rare glimpse into the strategic thinking driving technological innovation at GitHub Next.
 
------------------------------------------------------------------------------------------
-19:15 - 19:45 - Automating Database Testing and Monitoring in Your CI/CD Pipeline by [Ben Greenberg](https://www.linkedin.com/in/hummusonrails/)
+Topics open for exploration:
 
-[slides](https://noti.st/benhayehudi/vqu6Et/automating-database-testing-in-your-ci-cd-pipelines)
-
-This talk will guide you through the essentials of integrating comprehensive database testing and monitoring into your CI/CD pipelines. We'll explore the types of tests you should run, from unit to performance tests, and demonstrate how to automate these processes using GitHub Actions. Testing databases involves unique challenges such as ensuring data consistency, handling stateful interactions, and dealing with various concurrency issues. We'll also touch upon and briefly show how to share your GitHub Actions workflow data with monitoring tools like Prometheus, and what aspects of your workflow data you should share to maintain a healthy and performant database. Join us to learn how to elevate your CI/CD workflows and achieve more holistic database management.
-
------------------------------------------------------------------------------------------
-
-Ben previously spent a decade in adult education, community organizing, and non-profit management before transitioning to software development. He works as a Senior Developer Advocate at Couchbase and is a member of the board of Ruby Central. Ben is actively involved in open source and writes regularly on the intersection of tech, ethics, and community. He is the author of the forthcoming book Mastering Vector Search for Developers, to be published by Pragmatic Programmers. He can be found online at hummusonrails.com
+* The evolution of AI tools in software development
+* Emerging trends in developer productivity
+* Challenges of integrating AI into existing development ecosystems
+* Future vision for AI-assisted coding and software engineering
 
 ## Older events:
 
+* [2024](2024)
 * [2023](2023)
 * [2022](2022)
 * [2021](2021)
