@@ -23,7 +23,7 @@ Check our [Meetup page](https://www.meetup.com/github-user-group/) for more deta
 
 # Upcoming events
 
-## [08.02.2026] [](https://www.meetup.com/github-user-group/events/312845149/)
+## [08.02.2026] [Creating a Org-Wide Automation && Level-up your GitHub workflows](https://www.meetup.com/github-user-group/events/312845149/)
 
 * 18:00 - 18:30 - Gathering & Mingling 🍻
 * 18:30 - 18:45 - Opening Notes
